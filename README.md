@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+⁶<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -58,25 +58,16 @@
   </section>
 
   <section>
-    <h2>Fetched Data (from JSON)</h2>
-    <p>This data is loaded asynchronously using fetch():</p>
-    <ul id="data-list"></ul>
-  </section>
+{
+  "items": [
+    "Web Development",
+    "JavaScript Projects",
+    "UI/UX Interests",
+    "Learning APIs"
+  ]
+}
 
-  <script>
-    // Example local JSON fetching
-    fetch('data.json')
-      .then(response => response.json())
-      .then(data => {
-        const list = document.getElementById('data-list');
-        data.items.forEach(item => {
-          const li = document.createElement('li');
-          li.textContent = item;
-          list.appendChild(li);
-        });
-      })
-      .catch(error => console.error('Error loading JSON:', error));
-  </script>
+      </script>
 
 </body>
 </html>
