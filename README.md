@@ -57,17 +57,5 @@
     <p> Sleeping, exploring, traveling, and drinking matcha.</p>
   </section>
 
-  <section>
-{
-  "items": [
-    "Web Development",
-    "JavaScript Projects",
-    "UI/UX Interests",
-    "Learning APIs"
-  ]
-}
-
-      </script>
-
 </body>
 </html>
