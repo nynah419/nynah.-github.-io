@@ -47,7 +47,8 @@
     <h2>Social Links</h2>
     <ul>
       <li><a href="https://github.com/" target="_blank">GitHub</a></li>
-      <li><a href="#">1https://m.me/ishyninny</a></li>
+      <li><a href="#">1
+        https://m.me/ishyninny</a></li>
     </ul>
   </section>
 
